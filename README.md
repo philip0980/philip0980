@@ -7,7 +7,7 @@ I’m a passionate software developer who loves working with front-end , backend
 - 🔭 I’m currently working on [ A music player app ](coming soon).
 - 🌱 I’m learning more about React , Node.js and DevOps.
 - 👯 I’m open to collaborating on front-end and full-stack projects.
-- 📫 How to reach me: [philipchaudhary190.com](mailto:philipchaudhary190@gmail.com)
+- 📫 How to reach me: [philipchaudhary190@gmail.com](mailto:philipchaudhary190@gmail.com)
 - ⚡ Fun fact: I like playing guitar when i feel low.
 
 ## Technologies & Tools
